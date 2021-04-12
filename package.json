@@ -1,0 +1,21 @@
+{
+    "name": "back-in-80",
+    "displayName": "Back in 80",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dan",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dan-color-theme.json"
+            }
+        ]
+    }
+}
